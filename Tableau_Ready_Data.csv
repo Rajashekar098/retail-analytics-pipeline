@@ -1,0 +1,5 @@
+transaction_id,transaction_date,store_id,city,region,amount,transaction_tier,Manager
+5005,2026-10-13,104,Bangalore,South,4200.0,High Value,Ramu
+5003,2026-10-12,102,Mumbai,West,3400.0,High Value,Vinay
+5001,2026-10-10,101,Hyderabad,South,1250.5,Standard,Akhil
+5004,2026-10-12,103,Delhi,North,850.75,Standard,Rakesh
