@@ -37,4 +37,4 @@ This project demonstrates a complete, end-to-end enterprise data analytics workf
 * `Tableau_Ready_Data.csv`: The final processed dataset used for visualization.
 
 ## Final Visualization
-[Click here to view the interactive Tableau Dashboard] https://public.tableau.com/authoring/Retail_Analytics_Dashboard_17920030753790/Sheet1#2
+[Click here to view the interactive Tableau Dashboard](https://public.tableau.com/authoring/Retail_Analytics_Dashboard_17920030753790/Sheet1#2)
